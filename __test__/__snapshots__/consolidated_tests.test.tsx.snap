@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot: Captures DOM structure 1`] = `
+<button
+  type="button"
+>
+  Snapshot Glow
+</button>
+`;
