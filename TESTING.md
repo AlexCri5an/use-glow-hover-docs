@@ -7,6 +7,7 @@
 To run the tests, you need to install the required dependencies. Use the following commands:
 
 ```sh
+npm install
 npm install @rescui/use-glow-hover react react-dom @testing-library/react @testing-library/jest-dom jest jest-environment-jsdom
 ```
 
